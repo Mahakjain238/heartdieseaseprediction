@@ -1,1 +1,1 @@
-# heartdieseaseprediction
+# Heart Diesease prediction
